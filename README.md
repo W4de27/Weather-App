@@ -1,36 +1,32 @@
-# 🌦️ Weather App 2.0
+# 🌦️ Weather App v2.0 CLI Pro  
 
-![Python](https://img.shields.io/badge/Python-3.7+-blue?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3.13+-blue?style=flat-square)
 ![Requests](https://img.shields.io/badge/Requests-✓-brightgreen?style=flat-square)
 ![License](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)
 
-A **professional Python CLI Weather App** that fetches **real-time weather data** for any city worldwide using the **OpenWeather API**.  
-Provides temperature, weather description, humidity, and **local city time** in a **beautiful CLI display with emojis and animations**.
+### _A Modern, Fast & Beautiful Weather Forecast Terminal Application_
+
+Welcome to **Weather App CLI Pro**, a clean and elegant Python project designed to fetch **real-time weather data** directly in your terminal.  
+Powered by the **OpenWeather API**, this CLI app comes with **smooth animations**, **weather icons**, **smart validation**, and a **premium UI experience**.
 
 ---
 
 ## 🌟 Features
 
-- Fetch weather for **any city globally** 🌍  
-- Displays:
-  - **Temperature** 🌡️  
-  - **Weather description** ☁️  
-  - **Humidity** 💧  
-  - **Local city time** 🕒  
-- Animated **loading effects** for smooth user experience  
-- Robust **error handling**:
-  - Invalid city input  
-  - Network issues  
-  - API request limits (429)  
-  - Invalid API key  
-- **Cross-platform CLI support** (Windows 10+, Linux, Mac)  
-- Easy to **customize and extend**  
+✔ **Real-time Weather Data** using OpenWeather API  
+✔ **Beautiful CLI UI** with icons, separators, animations  
+✔ **Automatic Local Time Conversion**  
+✔ **Smart input validation**  
+✔ **Detailed weather summary**  
+✔ **Error handling for network, API, invalid input, etc.**  
+✔ **Clean code structure (PEP8 Ready)**  
+✔ **Cross-platform** (Windows, Mac, Linux)  
+✔ **Fast, smooth, modern experience**
 
 ---
-
 ## 💻 Tech Stack
 
-- **Python 3.7+**
+- **Python 3.13+**
 - `requests` for API requests  
 - `python-dotenv` for secure API key management  
 - Optional: `colorama` for colored CLI output  
